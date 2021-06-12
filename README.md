@@ -1,4 +1,4 @@
-# pokedex
+# pokedex :hatching_chick:
 
 ## Project setup
 ```
