@@ -1,4 +1,4 @@
-# pokedex :hatching_chick:
+# VueJs Pokedex :hatching_chick:
 
 ## Project setup
 ```
